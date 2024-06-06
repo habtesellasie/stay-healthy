@@ -6,5 +6,5 @@ When finished it will be evaluated by Coursera as the Capstone project of the IB
 
 ### Built With
 
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-- [![React][React.js]][React-url]
+- Bootstrap
+- React
